@@ -1,16 +1,13 @@
 # learnbloc
 
-A new Flutter project.
+## Bloc State Management + API 
 
-## Getting Started
+```
+Why Bloc? 
+Bloc makes it easy to separate presentation from business logic, making your code fast, easy to test and reusable.
+```
 
-This project is a starting point for a Flutter application.
+This repo is created by me to learn more about state manegement in flutter using Bloc so I made this simple app that is built using Bloc state management and API called from TMDB site.
 
-A few resources to get you started if this is your first Flutter project:
+You can check my code reference from this [site](https://bloclibrary.dev/#/flutterinfinitelisttutorial).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
